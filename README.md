@@ -1,2 +1,2 @@
 # nay-programming
-Meu portifólio ;)
+Meu portfólio ;)
